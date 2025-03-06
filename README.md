@@ -48,4 +48,4 @@ This is a post management application built with **React, Redux, and Tailwind CS
 
 ## Portfolio
 
-- [Portfolio](https://guptashubham-11.vercel.app)
+- [Portfolio](https://gupta-shubham-11.vercel.app)
